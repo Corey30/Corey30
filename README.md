@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+
+My name is Gaoyuan Zhang Corey, and I am interested in machine learning、reinforcement learning and optimization.
+🔭 I’m currently a student studying iN Wenzhou-Kean University.
+📫 How to reach me: zhangga@kean.edu
+⚡ Fun fact: My profile picture is of my favorite female anime character, Sylphiette
+
+
 <!--
 **Corey30/Corey30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
