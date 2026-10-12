@@ -2,9 +2,9 @@
 
 
 My name is Gaoyuan Zhang Corey, and I am interested in machine learning、reinforcement learning and optimization.
-🔭 I’m currently a student studying iN Wenzhou-Kean University.
-📫 How to reach me: zhangga@kean.edu
-⚡ Fun fact: My profile picture is of my favorite female anime character, Sylphiette
+- 🔭 I’m currently a student studying iN Wenzhou-Kean University.
+- 📫 How to reach me: zhangga@kean.edu
+- ⚡ Fun fact: My profile picture is of my favorite female anime character, Sylphiette
 
 
 <!--
